@@ -31,5 +31,5 @@ It is separated into two modules, [Customer](https://github.com/pauliand3138/Res
 - Receive new order notifications
   
 ## 📄Notes
-The RFDP application is developed and tested using Pixel 2 XL API 30 virtual machine from Android Studio's AVD Manager.  
+The RFDP application is developed and tested using Google Pixel 2 XL API 30 virtual machine from Android Studio's AVD Manager.  
 Feel free to refactor the Firebase Database URL and link it to your own Firebase Realtime Database😊.
